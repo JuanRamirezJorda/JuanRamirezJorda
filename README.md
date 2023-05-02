@@ -1,11 +1,14 @@
-### Hi there 👋
+# Hi there 👋
 
 
-### Esto como funciona?
+##### Esto como funciona?
 
+
+###  
+###  
 ### 📫 How to reach me:
-###              · ramirezjordajuan@gmail.com
-###              · [LinkedIn](https://www.linkedin.com/in/juan-ramirez-jorda/)
+#####              · ramirezjordajuan@gmail.com
+####               · [LinkedIn](https://www.linkedin.com/in/juan-ramirez-jorda/)
 <!--
 **JuanRamirezJorda/JuanRamirezJorda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
