@@ -10,7 +10,7 @@
 ### --------------------------
 ### 👔 Employment status:
 ##### 🚩🚩 I’m currently looking for a new job across EMEA 🔭 🌍 
-##### 🧰🖥 Aimed departments: Trading, FO Quant dev, Structuring, Quantitative Portfolio Management
+##### 🧰🖥 Aimed departments: Quant Trading, FO Quant dev, Quant Portfolio Management
 ### 📫 How to reach me:
 #####              · ramirezjordajuan@gmail.com
 #####              · [LinkedIn](https://www.linkedin.com/in/juan-ramirez-jorda/)
