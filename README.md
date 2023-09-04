@@ -9,7 +9,7 @@
 ##### 👉🏽 My plan consist on posting the projects as soon as I reasonably consider it appropriate.
 ### --------------------------
 ### 👔 Employment status:
-##### 🚩🚩 I’m currently looking for a new job across EMEA 🔭 🌍 
+##### 🚩🚩 I’m currently looking for a new job across EMEA and the USA 🔭 🌍 
 ##### 🧰🖥 Aimed departments: Quant Trading, FO Quant dev, Quant Portfolio Management
 ### 📫 How to reach me:
 #####              · ramirezjordajuan@gmail.com
