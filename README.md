@@ -6,7 +6,6 @@
 ### 🔎 My main objectives in these first years of my career are to master the programming languages with the most long-term presence in this sector and specialise in a particular product/underlying asset, having a fairly deep knowledge and application in the real economy. 
 
 ##### 💻 Currently working on several projects: ETF C&R app, Bootcamp: Futures/Algo trading via Quantconnect
-##### 👉🏽 My plan consist on posting the projects as soon as I reasonably consider it appropriate.
 ### --------------------------
 ### 👔 Employment status:
 ##### 🚩🚩 I’m currently looking for a new job across EMEA and the USA 🔭 🌍 
